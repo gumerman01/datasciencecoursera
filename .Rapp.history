@@ -1,0 +1,36 @@
+exit
+available.packages()
+install.packages("slidify")
+available.packages()
+install.packages("slidify","ggplot2","devtools")
+install.packages("devtools")
+install.packages("ggplot2")
+install.packages("kernlab")
+install.packages("kernSmooth")
+install.packages("KernSmooth")
+library(KernSmooth)
+exit
+getwd()
+getwd()
+dir()
+ls()
+dir()
+myfunction <- function(x) {#
+	y <- rnorm(100)#
+	mean(y)#
+}
+ls()
+myfunction()
+dir()
+source("myfunction.R")
+ls()
+second
+second(4)
+source("myfunction.R")
+second
+second(4)
+second(4)
+second(4)
+second(4:10)
+exit
+quit
